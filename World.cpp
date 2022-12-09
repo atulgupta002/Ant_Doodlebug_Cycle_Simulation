@@ -560,3 +560,4 @@ void breedAntRandomly(char world[], vector<Doodlebug>& doodlebugs, vector<Ant>& 
     }
     breedAntRandomly(world,doodlebugs,ants,i);
 }
+
