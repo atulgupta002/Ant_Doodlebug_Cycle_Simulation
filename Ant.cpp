@@ -6,6 +6,7 @@
 
 using namespace std;
 
+
 class Ant: public Organism
 {
     public:
