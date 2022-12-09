@@ -33,3 +33,4 @@ void Doodlebug::move(char world[], vector<Doodlebug>& doodlebugs, vector<Ant>& a
 void Doodlebug::breed()
 {
 }
+
